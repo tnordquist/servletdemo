@@ -5,7 +5,7 @@ import java.util.List;
 
 public class StudentDataUtil {
 	
-	List<Student> getStudents() {
+	static List<Student> getStudents() {
 		
 		List<Student> students = new ArrayList<>();
 		
