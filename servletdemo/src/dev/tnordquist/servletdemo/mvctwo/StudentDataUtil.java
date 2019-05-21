@@ -3,6 +3,11 @@ package dev.tnordquist.servletdemo.mvctwo;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Model of Student MVC
+ * @author toddnordquist
+ *
+ */
 public class StudentDataUtil {
 	
 	static List<Student> getStudents() {

@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * Servlet implementation class MvcDemoServletTwo
+ * Servlet implementation class MvcDemoServletTwo. Serves as controller in MVC of Student app.
  */
 @WebServlet("/MvcDemoServletTwo")
 public class MvcDemoServletTwo extends HttpServlet {
